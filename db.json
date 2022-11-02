@@ -57,6 +57,168 @@
       ],
       "correct_answer": "handlebars",
       "explanation": "hbkbh"
+    },
+     {
+      "id": 6,
+      "type": "trueFalse",
+      "question": "Java is an OOP language.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True",
+      "explanation": "hbkbh"
+    },
+    {
+      "id": 7,
+      "type": "multipleChoice",
+      "question": "What data structure is first in first out?",
+      "answers": [
+        "Stack",
+        "Array",
+        "Queue",
+        "Binary Tree"
+      ],
+      "correct_answer": "Queue",
+      "explanation": "hbkbh"
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "What is the primitive datatype of the number 1.64?",
+      "answers": [
+        "double"
+      ],
+      "correct_answer": "double",
+      "explanation": "hbkbh"
+    },
+    {
+      "id": 9,
+      "type": "imageSelection",
+      "question": "What is a binary tree?",
+      "answers": [
+        "https://www.frommers.com/system/media_items/attachments/000/865/785/s980/Vernal_Fall__Yosemite.jpg?1594998523",
+        "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png"
+      ],
+      "correct_answer": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png",
+      "explanation": "hbkbh999rerw"
+    },
+    {
+      "id": 10,
+      "type": "fillInBlank",
+      "question": " is a popular javascript library that allows us to programmatically change the view of the page",
+      "answers": [
+      ],
+      "correct_answer": "handlebars",
+      "explanation": "hbkbh"
+    },
+     {
+      "id": 11,
+      "type": "trueFalse",
+      "question": "Java is an OOP language.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True",
+      "explanation": "hbkbh"
+    },
+    {
+      "id": 12,
+      "type": "multipleChoice",
+      "question": "What data structure is first in first out?",
+      "answers": [
+        "Stack",
+        "Array",
+        "Queue",
+        "Binary Tree"
+      ],
+      "correct_answer": "Queue",
+      "explanation": "hbkbh"
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "What is the primitive datatype of the number 1.64?",
+      "answers": [
+        "double"
+      ],
+      "correct_answer": "double",
+      "explanation": "hbkbh"
+    },
+    {
+      "id": 14,
+      "type": "imageSelection",
+      "question": "What is a binary tree?",
+      "answers": [
+        "https://www.frommers.com/system/media_items/attachments/000/865/785/s980/Vernal_Fall__Yosemite.jpg?1594998523",
+        "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png"
+      ],
+      "correct_answer": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png",
+      "explanation": "hbkbh999rerw"
+    },
+    {
+      "id": 15,
+      "type": "fillInBlank",
+      "question": " is a popular javascript library that allows us to programmatically change the view of the page",
+      "answers": [
+      ],
+      "correct_answer": "handlebars",
+      "explanation": "hbkbh"
+    },
+     {
+      "id": 16,
+      "type": "trueFalse",
+      "question": "Java is an OOP language.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True",
+      "explanation": "hbkbh"
+    },
+    {
+      "id": 17,
+      "type": "multipleChoice",
+      "question": "What data structure is first in first out?",
+      "answers": [
+        "Stack",
+        "Array",
+        "Queue",
+        "Binary Tree"
+      ],
+      "correct_answer": "Queue",
+      "explanation": "hbkbh"
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "What is the primitive datatype of the number 1.64?",
+      "answers": [
+        "double"
+      ],
+      "correct_answer": "double",
+      "explanation": "hbkbh"
+    },
+    {
+      "id": 19,
+      "type": "imageSelection",
+      "question": "What is a binary tree?",
+      "answers": [
+        "https://www.frommers.com/system/media_items/attachments/000/865/785/s980/Vernal_Fall__Yosemite.jpg?1594998523",
+        "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png"
+      ],
+      "correct_answer": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png",
+      "explanation": "hbkbh999rerw"
+    },
+    {
+      "id": 20,
+      "type": "fillInBlank",
+      "question": " is a popular javascript library that allows us to programmatically change the view of the page",
+      "answers": [
+      ],
+      "correct_answer": "handlebars",
+      "explanation": "hbkbh"
     }
     
   ]
