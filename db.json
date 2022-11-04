@@ -5,220 +5,220 @@
   },
   "questions": [
     {
-      "id": 1,
+       "id": 1,
       "type": "trueFalse",
-      "question": "The number 89 is of type double.",
+      "question": "The number 89 is of type double in Java.",
       "answers": [
         "True",
         "False"
       ],
       "correct_answer": "False",
-      "explanation": "hbkbh"
+      "explanation": "Doubles in java are decimals. 89 would be an integer because it is a whole number"
     },
     {
       "id": 2,
       "type": "multipleChoice",
-      "question": "What data structure is first in first out?",
+      "question": "Which of the following CSS style property is used to specify an italic text?",
       "answers": [
-        "Stack",
-        "Array",
-        "Queue",
-        "Binary Tree"
+        "style",
+        "font",
+        "font-style",
+        "@font-face"
       ],
-      "correct_answer": "Queue",
-      "explanation": "hbkbh"
+      "correct_answer": "font-style",
+      "explanation": "The font-style property is used to specify an italic text. font-style property has three values (normal, italic & oblique)."
     },
     {
       "id": 3,
       "type": "text",
-      "question": "What is the primitive datatype of the number 1.64?",
+      "question": "What is the return type of the hashCode() method in the Object class in Java?",
       "answers": [
-        "double"
+        "int"
       ],
-      "correct_answer": "double",
-      "explanation": "hbkbh"
+      "correct_answer": "int",
+      "explanation": "In Java, the return type of hashCode() method is an integer, as it returns a hash code value for the object."
     },
     {
       "id": 4,
       "type": "imageSelection",
       "question": "What is a binary tree?",
       "answers": [
-        "https://www.frommers.com/system/media_items/attachments/000/865/785/s980/Vernal_Fall__Yosemite.jpg?1594998523",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tree_%28computer_science%29.svg/440px-Tree_%28computer_science%29.svg.png",
         "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png"
       ],
       "correct_answer": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png",
-      "explanation": "hbkbh999rerw"
+      "explanation": "Biary trees have 0-2 child nodes."
     },
     {
       "id": 5,
       "type": "fillInBlank",
-      "question": " is a popular javascript library that allows us to programmatically change the view of the page",
+      "question": " is used to find and fix bugs in the Java programs.",
       "answers": [
       ],
-      "correct_answer": "handlebars",
-      "explanation": "hbkbh"
+      "correct_answer": "font-size",
+      "explanation": "font-size is the css property used to change the size of text."
     },
      {
       "id": 6,
       "type": "trueFalse",
-      "question": "Java is an OOP language.",
+      "question": "the expression float a = 35 / 0 returns a run time exception",
       "answers": [
         "True",
         "False"
       ],
-      "correct_answer": "True",
-      "explanation": "hbkbh"
+      "correct_answer": "False",
+      "explanation": "In Java, whenever we divide any number (double, float, and long except integer) by zero, it results in infinity."
     },
     {
       "id": 7,
       "type": "multipleChoice",
-      "question": "What data structure is first in first out?",
+      "question": "Which package contains the Random class?",
       "answers": [
-        "Stack",
-        "Array",
-        "Queue",
-        "Binary Tree"
+        "java.util package",
+        "java.lang package",
+        "java.awt package",
+        "java.io package"
       ],
-      "correct_answer": "Queue",
-      "explanation": "hbkbh"
+      "correct_answer": "java.util package",
+      "explanation": "The Random class is available in the java.util package. An object of the Random class is used to generate a series of pseudorandom numbers. And the object of this class is a thread-safe and cryptographically insecure object. The Random class provides a variety of methods that are used to create random numbers of type integers, float, long, double, etc."
     },
     {
       "id": 8,
       "type": "text",
-      "question": "What is the primitive datatype of the number 1.64?",
+      "question": " In which memory a String is stored, when we create a string using new operator?",
       "answers": [
-        "double"
+        "heap"
       ],
-      "correct_answer": "double",
-      "explanation": "hbkbh"
+      "correct_answer": "heap",
+      "explanation": "When a String is created using a new operator, it always created in the heap memory. Whereas when we create a string using double quotes, it will check for the same value as of the string in the string constant pool. If it is found, returns a reference of it else create a new string in the string constant pool."
     },
     {
       "id": 9,
-      "type": "imageSelection",
-      "question": "What is a binary tree?",
+      "type": "multipleChoice",
+      "question": "Which of the following is a mutable class in java?",
       "answers": [
-        "https://www.frommers.com/system/media_items/attachments/000/865/785/s980/Vernal_Fall__Yosemite.jpg?1594998523",
-        "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png"
+        "java.lang.String",
+        "java.lang.Byte",
+        "java.lang.Short",
+        "java.lang.StringBuilder"
       ],
-      "correct_answer": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png",
-      "explanation": "hbkbh999rerw"
+      "correct_answer": "java.lang.StringBuilder",
+      "explanation": "A mutable class is a class in which changes can be made after its creation. We can modify the internal state and fields of a mutable class. The StringBuilder class is a mutable class, as it can be altered after it is created."
     },
     {
       "id": 10,
       "type": "fillInBlank",
-      "question": " is a popular javascript library that allows us to programmatically change the view of the page",
+      "question": " is the keyword used for accessing the features of a package.",
       "answers": [
       ],
-      "correct_answer": "handlebars",
-      "explanation": "hbkbh"
+      "correct_answer": "import",
+      "explanation": "The import keyword is used to access the classes and interfaces of a particular package to the current file. In other words, it is used to import the user-defined and built-in classes and interfaces into the source file of java so that the current file can easily access the other packages by directly using its name. For example, import java.awt.*;"
     },
      {
       "id": 11,
       "type": "trueFalse",
-      "question": "Java is an OOP language.",
+      "question": "JavaScript is not an OOP language.",
       "answers": [
         "True",
         "False"
       ],
       "correct_answer": "True",
-      "explanation": "hbkbh"
+      "explanation": "JavaScript is a prototype based Object Oriented Language, which means it doesn't have classes."
     },
     {
       "id": 12,
       "type": "multipleChoice",
-      "question": "What data structure is first in first out?",
+      "question": "Which one of the following is an ternary operator?",
       "answers": [
-        "Stack",
-        "Array",
-        "Queue",
-        "Binary Tree"
+        "?",
+        ":",
+        "-",
+        "+"
       ],
-      "correct_answer": "Queue",
-      "explanation": "hbkbh"
+      "correct_answer": "?",
+      "explanation": "In JavaScript, only one ternary operator is supported, known as the conditional operator, which combines three different expressions into one expression. However, the conditional operator can also be used in place of the if else statements as well."
     },
     {
       "id": 13,
-      "type": "text",
-      "question": "What is the primitive datatype of the number 1.64?",
+      "type": "What operator returns false if both values are equal?",
       "answers": [
-        "double"
+        "!="
       ],
-      "correct_answer": "double",
-      "explanation": "hbkbh"
+      "correct_answer": "!=",
+      "explanation": "The != operators returns false if both the given values are equal."
     },
     {
       "id": 14,
-      "type": "imageSelection",
-      "question": "What is a binary tree?",
+      "type": "text",
+      "question": "What symbol sequence is used for line comments in Java & JavaScript",
       "answers": [
-        "https://www.frommers.com/system/media_items/attachments/000/865/785/s980/Vernal_Fall__Yosemite.jpg?1594998523",
-        "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png"
+        "//"
       ],
-      "correct_answer": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png",
-      "explanation": "hbkbh999rerw"
+      "correct_answer": "//",
+      "explanation": "The single line comments always starts by the // and any text written in between the // and the end of the line is considered as comment and ignored by the JavaScript."
     },
     {
       "id": 15,
       "type": "fillInBlank",
-      "question": " is a popular javascript library that allows us to programmatically change the view of the page",
+      "question": " are used to debug code",
       "answers": [
       ],
-      "correct_answer": "handlebars",
-      "explanation": "hbkbh"
+      "correct_answer": "debuggers",
+      "explanation": "Debuggers are used to walk through code and fix bugs."
     },
      {
       "id": 16,
       "type": "trueFalse",
-      "question": "Java is an OOP language.",
+      "question": "Constructors in java have the same name as the class.",
       "answers": [
         "True",
         "False"
       ],
       "correct_answer": "True",
-      "explanation": "hbkbh"
+      "explanation": "Constructors are special methods that have the same name as the class and are used to create new objects."
     },
     {
       "id": 17,
       "type": "multipleChoice",
-      "question": "What data structure is first in first out?",
+      "question": "A set of unordered properties that, has a name and value is called a what?",
       "answers": [
-        "Stack",
+        "String",
         "Array",
-        "Queue",
-        "Binary Tree"
+        "Object",
+        "Tree"
       ],
-      "correct_answer": "Queue",
-      "explanation": "hbkbh"
+      "correct_answer": "Object",
+      "explanation": "The Objects in the JavaScript are considered as a set of unordered related data(or properties), reference types, in the form of key: value pairs. Hence each of the property contains a name and value."
     },
     {
       "id": 18,
       "type": "text",
-      "question": "What is the primitive datatype of the number 1.64?",
+      "question": "What is the return value of a function that does not return a value in Java?",
       "answers": [
-        "double"
+        "void"
       ],
-      "correct_answer": "double",
-      "explanation": "hbkbh"
+      "correct_answer": "void",
+      "explanation": "Methods with no return value are void methods."
     },
     {
       "id": 19,
       "type": "imageSelection",
-      "question": "What is a binary tree?",
+      "question": "Which is a representation of a hash map?",
       "answers": [
-        "https://www.frommers.com/system/media_items/attachments/000/865/785/s980/Vernal_Fall__Yosemite.jpg?1594998523",
-        "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png"
+        "https://www.researchgate.net/publication/284454241/figure/fig2/AS:391461272080393@1470343048820/Hash-table-representation-for-separate-chaining.png",
+        "https://www.alphacodingskills.com/imgfiles/linked-list.PNG"
       ],
-      "correct_answer": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png",
-      "explanation": "hbkbh999rerw"
+      "correct_answer": "https://www.researchgate.net/publication/284454241/figure/fig2/AS:391461272080393@1470343048820/Hash-table-representation-for-separate-chaining.png",
+      "explanation": "Hash maps are key value pairs while the other image is a linked list, a list of nodes with next pointers linking them to each other."
     },
     {
       "id": 20,
       "type": "fillInBlank",
-      "question": " is a popular javascript library that allows us to programmatically change the view of the page",
+      "question": " files are a standard text-based format for representing structured data based on JavaScript object syntax.",
       "answers": [
       ],
-      "correct_answer": "handlebars",
-      "explanation": "hbkbh"
+      "correct_answer": "json",
+      "explanation": "JSON (JavaScript Object Notation) is an open standard file format for sharing data that uses human-readable text to store and transmit data."
     }
     
   ]
