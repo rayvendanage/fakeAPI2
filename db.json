@@ -41,13 +41,13 @@
     {
       "id": 4,
       "type": "imageSelection",
-      "question": "What is a binary tree?",
+      "question": "What is an avl tree?",
       "answers": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tree_%28computer_science%29.svg/440px-Tree_%28computer_science%29.svg.png",
+        "https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2021/08/TV-AVL-tree-in-DS-normal-images01.jpg",
         "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png"
       ],
-      "correct_answer": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/binary-tree-to-DLL.png",
-      "explanation": "Biary trees have 0-2 child nodes."
+      "correct_answer": "https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2021/08/TV-AVL-tree-in-DS-normal-images01.jpg",
+      "explanation": "An AVL tree is a self balancing Binary Search Tree and uses a balance factor."
     },
     {
       "id": 5,
@@ -203,12 +203,12 @@
     {
       "id": 19,
       "type": "imageSelection",
-      "question": "Which is a representation of a hash map?",
+      "question": "Which is a representation of a stack?",
       "answers": [
-        "https://www.researchgate.net/publication/284454241/figure/fig2/AS:391461272080393@1470343048820/Hash-table-representation-for-separate-chaining.png",
-        "https://www.alphacodingskills.com/imgfiles/linked-list.PNG"
+        "https://www.edureka.co/blog/wp-content/uploads/2019/08/queue-data-structure-1-300x214.png",
+        "https://media.geeksforgeeks.org/wp-content/uploads/20220714004311/Stack-660x566.png"
       ],
-      "correct_answer": "https://www.researchgate.net/publication/284454241/figure/fig2/AS:391461272080393@1470343048820/Hash-table-representation-for-separate-chaining.png",
+      "correct_answer": "https://media.geeksforgeeks.org/wp-content/uploads/20220714004311/Stack-660x566.png",
       "explanation": "Hash maps are key value pairs while the other image is a linked list, a list of nodes with next pointers linking them to each other."
     },
     {
